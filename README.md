@@ -25,8 +25,7 @@ A stylish frontend-only mini clone of **Flipkart**, built using HTML, CSS, and J
 
 ---
 📌 Live Demo
-👉 Live Site
-(Replace with your deployed project URL)
+👉 https://charitha277.github.io/flipkart-clone/
 
 👤 Author
 Charitha Besta
